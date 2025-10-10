@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!</h1>
-<h2 align="left">I'm a passionate musician who also likes to code!</h2>
+<h2 align="center">I'm a passionate musician who also likes to code!</h2>
 
 - 🔭 I’m currently working on [Three Good Things](https://github.com/Asyboi/ThreeGoodThings)
 

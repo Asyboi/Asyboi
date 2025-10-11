@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Three Good Things](https://github.com/Asyboi/ThreeGoodThings)
 
-- 📫 How to reach me **aslanwang187@gmail.com**
+- 📫 email: **aslanwang187@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

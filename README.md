@@ -1,5 +1,5 @@
-<h1 align="left">Hey! I'm Aslan! 😽 </h1>
-<h3 align="left">I'm a musician who likes to code!</h2>
+<h1 align="left">Hey! I'm Aslan!</h1>
+<h3 align="left">I'm a musician 🎻 who likes to code! 👨‍💻 </h2>
 
 - 🔭 I’m currently working on [Three Good Things](https://github.com/Asyboi/ThreeGoodThings)
 

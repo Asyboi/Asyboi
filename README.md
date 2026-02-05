@@ -9,6 +9,6 @@ I'm a musician 🎻 who likes to code 👨‍💻
   <li>Full-stack development</li>
 </ul><hr>
 
-- 🔭 currently working on [Three Good Things](https://github.com/Asyboi/ThreeGoodThings)
+- 🔭 currently working on [EventCreator](https://github.com/Asyboi/EventCreator)
 
 - 📫 Contact: **aslanwang187@gmail.com**

@@ -4,11 +4,10 @@ I'm a musician 🎻 who likes to code 👨‍💻
 <h2 align="left"> Hobbies & Interests </h2>
 <ul>
   <li>Playing Cello/Piano</li>
-  <li>Music Composition</li>
-  <li>Cooking</li>
-  <li>Full-stack development</li>
+  <li>Agentic Coding</li>
+  <li>Full-Stack Development</li>
 </ul><hr>
 
-- 🔭 currently working on [EventCreator](https://github.com/Asyboi/EventCreator)
+- 🔭 currently working on [EcoAPI](https://github.com/ecoapi-dev)
 
 - 📫 Contact: **aslanwang187@gmail.com**

@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hey, I'm Aslan!</h1>
-I'm a musician 🎻 who likes to code 👨‍💻
+Weekends at hackathons. Weekdays building something bigger... 
 
 <h2 align="left"> Hobbies & Interests </h2>
 <ul>

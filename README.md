@@ -1,4 +1,4 @@
-<h1> Weekends at hackathons. Weekdays building something bigger... </h1>
+<h3> Weekends at hackathons. Weekdays building something bigger... </h3>
 
 - currently working on [Recost](https://github.com/recost-dev)
 
